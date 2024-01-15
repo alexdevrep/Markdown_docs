@@ -1,5 +1,5 @@
 
-# Palabras en negrita {#negrita}
+# Palabras en negrita 
 
 Para que las palabras nos salgan en negrita debemos añadir dos asteríscos o dos guiones  bajo `**` o `__` <br> al principio  y dos al final de lo que queremos que se muestre en negrita:
 
