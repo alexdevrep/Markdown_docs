@@ -38,12 +38,13 @@ Para convetir una URL o una dirección de email en un link debemos de escribirlo
 Aquí te muestro un ejemplo de como hacerlos
 
 ```
-<alexdevrep@gmail.com>
+<https://www.youtube.com/>
 ```
 
-<alexdevrep@gmail.com>
+La salida que se nos muestra es la siguiente:
 
-alexdevrep@gmail.com
+<https://www.youtube.com/>
+
 
 
 
