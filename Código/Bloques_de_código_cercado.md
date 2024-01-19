@@ -1,5 +1,11 @@
 # Bloques de código cercado
 
+>
+>Atención: Este archivo pertenece a la sintaxis avanzada del lenguaje por lo que 
+>no todos los editores de archivos Markdown soportan esta sintaxis para más 
+>información clica [aquí]()
+>
+
 Tambien podemos crear bloques de código sin identar lineas.
 
 Aquí te muestro un ejemplo:
