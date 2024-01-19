@@ -24,7 +24,7 @@ Desde aquí puedes acceder a los archivos del repositorio sin necesidad de busca
 * [Párrafos](https://github.com/alexdevrep/Markdown_docs/blob/main/Primeros%20pasos/p%C3%A1rrafos.md)
 * [Saltos de línea](https://github.com/alexdevrep/Markdown_docs/blob/main/Primeros%20pasos/Saltos_de_l%C3%ADnea.md)
 * [Líneas horizontales](https://github.com/alexdevrep/Markdown_docs/blob/main/Primeros%20pasos/lineas_horizontales.md)
-* [Tablas]()
+* [Tablas](https://github.com/alexdevrep/Markdown_docs/blob/main/Primeros%20pasos/Tablas%20.md)
 * [Identificador de encabezados]()
 
 
@@ -36,6 +36,7 @@ En markdown podemos hacer que las palabras estén escritas en:
 * [Negrita](https://github.com/alexdevrep/Markdown_docs/blob/main/Formateo%20de%20texto/negrita.md)
 * [En cursiva](https://github.com/alexdevrep/Markdown_docs/blob/main/Formateo%20de%20texto/cursiva.md)
 * [En negrita y en cursiva](https://github.com/alexdevrep/Markdown_docs/blob/main/Formateo%20de%20texto/negrita_y_cursiva.md)
+* [Tachado](https://github.com/alexdevrep/Markdown_docs/blob/main/Formateo%20de%20texto/Tachado.md)
 
 ## Citas en bloque 
 
@@ -56,7 +57,7 @@ En markdown podemos hacer que las palabras estén escritas en:
 ## Enlaces 
 
 * [Enlaces](https://github.com/alexdevrep/Markdown_docs/blob/main/Enlaces/links.md)
-* [Linkado automático de URL]()
+* [Linkado automático de URL](https://github.com/alexdevrep/Markdown_docs/blob/main/Enlaces/Enlazado_automatico_URL.md)
 * [Imágenes]()
 
 ## HTML
