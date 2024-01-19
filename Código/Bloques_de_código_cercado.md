@@ -1,10 +1,11 @@
+
 # Bloques de código cercado
 
->
+
 >Atención: Este archivo pertenece a la sintaxis avanzada del lenguaje por lo que 
->no todos los editores de archivos Markdown soportan esta sintaxis para más 
->información clica [aquí]()
->
+>no todas las variantes de Markdown ni los procesadores soportan esta sintaxis para más información clica [aquí](https://github.com/alexdevrep/Markdown_docs/blob/main/Disponibilidad/Disponibilidad.md)
+
+
 
 Tambien podemos crear bloques de código sin identar lineas.
 
