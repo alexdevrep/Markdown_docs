@@ -47,7 +47,7 @@ En markdown podemos hacer que las palabras estén escritas en:
 * [Listas ordenadas y desordenadas](https://github.com/alexdevrep/Markdown_docs/blob/main/Listas/listas.md)
 * [Listas de definiciones]()
 * [Listas de tareas]()
-* [Elementos que podemos añadir a una lista]()
+* [Elementos que podemos añadir a una lista](https://github.com/alexdevrep/Markdown_docs/blob/main/Listas/Elementos_en_una_lista.md)
 
 ## Código
 
@@ -58,7 +58,7 @@ En markdown podemos hacer que las palabras estén escritas en:
 
 * [Enlaces](https://github.com/alexdevrep/Markdown_docs/blob/main/Enlaces/links.md)
 * [Linkado automático de URL](https://github.com/alexdevrep/Markdown_docs/blob/main/Enlaces/Enlazado_automatico_URL.md)
-* [Imágenes]()
+* [Imágenes](https://github.com/alexdevrep/Markdown_docs/blob/main/Enlaces/Imagenes.md)
 
 ## HTML
 
