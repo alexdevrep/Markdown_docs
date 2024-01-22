@@ -25,7 +25,7 @@ Desde aquí puedes acceder a los archivos del repositorio sin necesidad de busca
 * [Saltos de línea](https://github.com/alexdevrep/Markdown_docs/blob/main/Primeros%20pasos/Saltos_de_l%C3%ADnea.md)
 * [Líneas horizontales](https://github.com/alexdevrep/Markdown_docs/blob/main/Primeros%20pasos/lineas_horizontales.md)
 * [Tablas](https://github.com/alexdevrep/Markdown_docs/blob/main/Primeros%20pasos/Tablas%20.md)
-* [Identificador de encabezados]()
+
 
 
 ## Formateo de texto 

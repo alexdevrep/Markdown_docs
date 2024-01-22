@@ -97,7 +97,7 @@ La salida que se nos muestra por pantalla es la siguiente:
 1. Primer elemento de la lista
 2. Segundo elemento de la lista 
 
-    ![Una imagen de OctoCat, la mascota de GitHub](/imágenes/OctoCat.png)
+    ![Una imagen de OctoCat, la mascota de GitHub](/documentación//imágenes/OctoCat.png)
 
 3. Tercer elemento de la lista
 

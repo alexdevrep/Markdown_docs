@@ -7,12 +7,12 @@ Para añadir una imagen simplemente añadimos el símbolo de exclamación ˋ!ˋ 
 Aquí te muestro un ejemplo de como añadir una imagen:
 
 ```
-![Una imagen de Octocat, la mascota de GitHub](/imágenes/OctoCat.png)
+![Una imagen de Octocat, la mascota de GitHub](/ruta de la imagen)
 ```
 
 La salida que se nos mostraría por pantalla sería la siguiente:
 
-![Una imagen de Octocat, la mascota de GitHub](/imágenes/OctoCat.png)
+![Una imagen de Octocat, la mascota de GitHub](/documentación//imágenes/OctoCat.png)
 
 ## Enlazando imágenes
 
@@ -27,5 +27,5 @@ Aquí te muestro un ejemplo de como se hace:
 
 La salida que se nos muestra por pantalla es la siguiente:
 
-[![El logo de Markdown](/imágenes/markdown.png)]((https://openclipart.org/detail/299649/gsmarkdown))
+[![El logo de Markdown](/documentación//imágenes/markdown.png)]((https://openclipart.org/detail/299649/gsmarkdown))
 
